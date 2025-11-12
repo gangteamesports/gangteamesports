@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="gt.png" alt="Github image">
+<img src="git.png" alt="Github image">
